@@ -45,6 +45,8 @@
 		"git": "os-provided",
 		"python": "os-provided",
 		"powershell": "7.1",
-		"ghcr.io/devcontainers/features/node:1": {}
+		"ghcr.io/devcontainers/features/node:1": {},
+		"ghcr.io/devcontainers/features/github-cli:1": {}
+
 	}
 }
